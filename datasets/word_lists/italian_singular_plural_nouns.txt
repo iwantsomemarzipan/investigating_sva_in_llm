@@ -1,0 +1,100 @@
+1. il dottore/i dottori
+2. l’avvocato/gli avvocati
+3. il maestro/i maestri
+4. l’impiegato/gli impiegati
+5. il presidente/i presidenti
+6. il cuoco/i cuochi
+7. il poliziotto/i poliziotti
+8. il pompiere/i pompieri
+9. l’agricoltore/gli agricoltori
+10. il pittore/i pittori
+11. il musicista/i musicisti
+12. il ballerino/i ballerini
+13. lo scrittore/gli scrittori
+14. l’attore/gli attori
+15. il meccanico/i meccanici
+16. il giardiniere/i giardinieri
+17. il fotografo/i fotografi
+18. l’editore/gli editori
+19. il direttore/i direttori
+20. l’architetto/gli architetti
+21. il sacerdote/i sacerdoti
+22. il sindaco/i sindaci
+23. il deputato/i deputati
+24. il senatore/i senatori
+25. il monarca/i monarchi
+26. il principe/i principi
+27. il venditore/i venditori
+28. il dirigente/i dirigenti
+29. l’economista/gli economisti
+30. il contabile/i contabili
+31. lo scienziato/gli scienziati
+32. il ricercatore/i ricercatori
+33. lo psicologo/gli psicologi
+34. il terapeuta/i terapeuti
+35. l’infermiere/gli infermieri
+36. il dentista/i dentisti
+37. il chirurgo/i chirurghi
+38. l’anestesista/gli anestesisti
+39. il farmacista/i farmacisti
+40. il nutrizionista/i nutrizionisti
+41. l’allenatore/gli allenatori
+42. l’arbitro/gli arbitri
+43. il calciatore/i calciatori
+44. il cestista/i cestisti
+45. il tennista/i tennisti
+46. il nuotatore/i nuotatori
+47. il ciclista/i ciclisti
+48. lo sciatore/gli sciatori
+49. il corridore/i corridori
+50. il pugile/i pugili
+51. il giornalista/i giornalisti
+52. l’annunciatore/gli annunciatori
+53. il cameraman/i cameraman
+54. il produttore/i produttori
+55. lo sceneggiatore/gli sceneggiatori
+56. lo scultore/gli scultori
+57. il disegnatore/i disegnatori
+58. il designer/i designer
+59. il tatuatore/i tatuatori
+60. il calzolaio/i calzolai
+61. il sarto/i sarti
+62. l’idraulico/gli idraulici
+63. l’elettricista/gli elettricisti
+64. il carpentiere/i carpentieri
+65. il muratore/i muratori
+66. il bibliotecario/i bibliotecari
+67. il criminologo/i criminologi
+68. il sociologo/i sociologi
+69. lo storico/gli storici
+70. il filosofo/i filosofi
+71. il traduttore/i traduttori
+72. l’interprete/gli interpreti
+73. l’ambasciatore/gli ambasciatori
+74. il console/i consoli
+75. il tecnico/i tecnici
+76. il programmatore/i programmatori
+77. l’analista/gli analisti
+78. il consulente/i consulenti
+79. l’assistente/gli assistenti
+80. il socio/i soci
+81. il commerciante/i commercianti
+82. il contadino/i contadini
+83. il minatore/i minatori
+84. il pescatore/i pescatori
+85. il marinaio/i marinai
+86. il pilota/i piloti
+87. l’astronauta/gli astronauti
+88. il meteorologo/i meteorologi
+89. il geologo/i geologi
+90. l’ottico/gli ottici
+91. il chinesiologo/i chinesiologi
+92. lo psichiatra/gli psichiatri
+93. l’ortodontista/gli ortodontisti
+94. il cadetto/i cadetti
+95. il vigilante/i vigilanti
+96. il soldato/i soldati
+97. l’accompagnatore/gli accompagnatori
+98. l’agente/gli agenti
+99. l’investigatore/gli investigatori
+100. l’informatore/gli informatori

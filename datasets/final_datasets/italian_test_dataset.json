@@ -1,0 +1,6002 @@
+{
+    "0": {
+        "item_id": 1224,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che vedeva l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "1": {
+        "item_id": 1224,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che vedevano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "2": {
+        "item_id": 608,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che seguiva il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "3": {
+        "item_id": 608,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che seguivano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "4": {
+        "item_id": 143,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che chiamava i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "5": {
+        "item_id": 143,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che chiamavano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "6": {
+        "item_id": 751,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che cercava i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "7": {
+        "item_id": 751,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che cercavano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "8": {
+        "item_id": 1534,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che osservava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "9": {
+        "item_id": 1534,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che osservavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "10": {
+        "item_id": 981,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che aiutava i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "11": {
+        "item_id": 981,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che aiutavano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "12": {
+        "item_id": 197,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che ascoltava i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "13": {
+        "item_id": 197,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che ascoltavano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "14": {
+        "item_id": 1633,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che trovava gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "15": {
+        "item_id": 1633,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che trovavano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "16": {
+        "item_id": 883,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che chiamava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "17": {
+        "item_id": 883,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che chiamavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "18": {
+        "item_id": 279,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che pagava gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "19": {
+        "item_id": 279,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che pagavano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "20": {
+        "item_id": 293,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che trovava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "21": {
+        "item_id": 293,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che trovavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "22": {
+        "item_id": 1823,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che chiamava gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "23": {
+        "item_id": 1823,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che chiamavano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "24": {
+        "item_id": 400,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che aiutava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "25": {
+        "item_id": 400,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che aiutavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "26": {
+        "item_id": 122,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il dottore che chiamava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "27": {
+        "item_id": 122,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i dottori che chiamavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "28": {
+        "item_id": 1207,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che conosceva i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "29": {
+        "item_id": 1207,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che conoscevano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "30": {
+        "item_id": 202,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che chiamava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "31": {
+        "item_id": 202,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che chiamavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "32": {
+        "item_id": 1462,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che chiamava l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "33": {
+        "item_id": 1462,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che chiamavano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "34": {
+        "item_id": 835,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che osservava gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "35": {
+        "item_id": 835,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che osservavano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "36": {
+        "item_id": 246,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che conosceva il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "37": {
+        "item_id": 246,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che conoscevano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "38": {
+        "item_id": 1439,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che pagava gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "39": {
+        "item_id": 1439,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che pagavano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "40": {
+        "item_id": 1753,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che trovava i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "41": {
+        "item_id": 1753,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che trovavano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "42": {
+        "item_id": 1901,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che aiutava i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "43": {
+        "item_id": 1901,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che aiutavano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "44": {
+        "item_id": 1707,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che conosceva i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "45": {
+        "item_id": 1707,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che conoscevano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "46": {
+        "item_id": 1880,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che aiutava il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "47": {
+        "item_id": 1880,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che aiutavano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "48": {
+        "item_id": 1153,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che trovava i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "49": {
+        "item_id": 1153,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che trovavano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "50": {
+        "item_id": 1661,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che aiutava gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "51": {
+        "item_id": 1661,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che aiutavano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "52": {
+        "item_id": 1426,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che conosceva l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "53": {
+        "item_id": 1426,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che conoscevano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "54": {
+        "item_id": 384,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che vedeva il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "55": {
+        "item_id": 384,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che vedevano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "56": {
+        "item_id": 1758,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che pagava il pompiere",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "57": {
+        "item_id": 1758,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che pagavano i pompieri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "58": {
+        "item_id": 854,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il presidente che osservava il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "59": {
+        "item_id": 854,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i presidenti che osservavano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "60": {
+        "item_id": 1589,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che seguiva i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "61": {
+        "item_id": 1589,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che seguivano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "62": {
+        "item_id": 219,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che pagava i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "63": {
+        "item_id": 219,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che pagavano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "64": {
+        "item_id": 641,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che aiutava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "65": {
+        "item_id": 641,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che aiutavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "66": {
+        "item_id": 1,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che aiutava i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "67": {
+        "item_id": 1,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che aiutavano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "68": {
+        "item_id": 112,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il dottore che trovava il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "69": {
+        "item_id": 112,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i dottori che trovavano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "70": {
+        "item_id": 698,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che pagava il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "71": {
+        "item_id": 698,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che pagavano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "72": {
+        "item_id": 1915,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che osservava i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "73": {
+        "item_id": 1915,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che osservavano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "74": {
+        "item_id": 951,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che cercava i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "75": {
+        "item_id": 951,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che cercavano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "76": {
+        "item_id": 1648,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che seguiva il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "77": {
+        "item_id": 1648,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che seguivano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "78": {
+        "item_id": 1636,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che ascoltava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "79": {
+        "item_id": 1636,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che ascoltavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "80": {
+        "item_id": 1885,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che vedeva i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "81": {
+        "item_id": 1885,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che vedevano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "82": {
+        "item_id": 1410,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che cercava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "83": {
+        "item_id": 1410,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che cercavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "84": {
+        "item_id": 1409,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che seguiva i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "85": {
+        "item_id": 1409,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che seguivano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "86": {
+        "item_id": 1533,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che trovava i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "87": {
+        "item_id": 1533,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che trovavano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "88": {
+        "item_id": 1291,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che cercava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "89": {
+        "item_id": 1291,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che cercavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "90": {
+        "item_id": 1808,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che seguiva il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "91": {
+        "item_id": 1808,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che seguivano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "92": {
+        "item_id": 441,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il maestro che aiutava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "93": {
+        "item_id": 441,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i maestri che aiutavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "94": {
+        "item_id": 1520,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che aiutava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "95": {
+        "item_id": 1520,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che aiutavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "96": {
+        "item_id": 1136,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che ascoltava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "97": {
+        "item_id": 1136,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che ascoltavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "98": {
+        "item_id": 1715,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che osservava i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "99": {
+        "item_id": 1715,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che osservavano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "100": {
+        "item_id": 1256,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che ascoltava il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "101": {
+        "item_id": 1256,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che ascoltavano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "102": {
+        "item_id": 1863,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che chiamava gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "103": {
+        "item_id": 1863,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che chiamavano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "104": {
+        "item_id": 1631,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che cercava gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "105": {
+        "item_id": 1631,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che cercavano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "106": {
+        "item_id": 1695,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che osservava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "107": {
+        "item_id": 1695,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che osservavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "108": {
+        "item_id": 1397,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che ascoltava i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "109": {
+        "item_id": 1397,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che ascoltavano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "110": {
+        "item_id": 663,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che chiamava gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "111": {
+        "item_id": 663,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che chiamavano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "112": {
+        "item_id": 1835,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che osservava gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "113": {
+        "item_id": 1835,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che osservavano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "114": {
+        "item_id": 1257,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che ascoltava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "115": {
+        "item_id": 1257,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che ascoltavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "116": {
+        "item_id": 1773,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che trovava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "117": {
+        "item_id": 1773,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che trovavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "118": {
+        "item_id": 1700,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che aiutava il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "119": {
+        "item_id": 1700,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che aiutavano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "120": {
+        "item_id": 317,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che ascoltava i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "121": {
+        "item_id": 317,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che ascoltavano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "122": {
+        "item_id": 648,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che seguiva il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "123": {
+        "item_id": 648,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che seguivano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "124": {
+        "item_id": 1434,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che osservava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "125": {
+        "item_id": 1434,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che osservavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "126": {
+        "item_id": 1479,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che pagava gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "127": {
+        "item_id": 1479,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che pagavano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "128": {
+        "item_id": 709,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che seguiva i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "129": {
+        "item_id": 709,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che seguivano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "130": {
+        "item_id": 1382,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che chiamava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "131": {
+        "item_id": 1382,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che chiamavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "132": {
+        "item_id": 1282,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che chiamava il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "133": {
+        "item_id": 1282,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che chiamavano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "134": {
+        "item_id": 972,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il presidente che trovava l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "135": {
+        "item_id": 972,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i presidenti che trovavano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "136": {
+        "item_id": 627,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che conosceva gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "137": {
+        "item_id": 627,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che conoscevano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "138": {
+        "item_id": 632,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che trovava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "139": {
+        "item_id": 632,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che trovavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "140": {
+        "item_id": 1306,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che conosceva il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "141": {
+        "item_id": 1306,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che conoscevano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "142": {
+        "item_id": 1400,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che aiutava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "143": {
+        "item_id": 1400,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che aiutavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "144": {
+        "item_id": 1408,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che seguiva il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "145": {
+        "item_id": 1408,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che seguivano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "146": {
+        "item_id": 1248,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che seguiva il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "147": {
+        "item_id": 1248,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che seguivano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "148": {
+        "item_id": 1952,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che trovava il pompiere",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "149": {
+        "item_id": 1952,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che trovavano i pompieri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "150": {
+        "item_id": 1254,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che osservava il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "151": {
+        "item_id": 1254,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che osservavano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "152": {
+        "item_id": 1496,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che ascoltava il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "153": {
+        "item_id": 1496,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che ascoltavano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "154": {
+        "item_id": 1371,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che cercava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "155": {
+        "item_id": 1371,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che cercavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "156": {
+        "item_id": 1529,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che seguiva i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "157": {
+        "item_id": 1529,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che seguivano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "158": {
+        "item_id": 1663,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che chiamava gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "159": {
+        "item_id": 1663,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che chiamavano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "160": {
+        "item_id": 1354,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che osservava il pompiere",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "161": {
+        "item_id": 1354,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che osservavano i pompieri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "162": {
+        "item_id": 1925,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che vedeva i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "163": {
+        "item_id": 1925,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che vedevano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "164": {
+        "item_id": 1900,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che aiutava il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "165": {
+        "item_id": 1900,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che aiutavano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "166": {
+        "item_id": 1643,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che chiamava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "167": {
+        "item_id": 1643,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che chiamavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "168": {
+        "item_id": 1848,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che seguiva il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "169": {
+        "item_id": 1848,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che seguivano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "170": {
+        "item_id": 795,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che osservava i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "171": {
+        "item_id": 795,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che osservavano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "172": {
+        "item_id": 645,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che vedeva i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "173": {
+        "item_id": 645,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che vedevano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "174": {
+        "item_id": 1012,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che trovava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "175": {
+        "item_id": 1012,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che trovavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "176": {
+        "item_id": 1839,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che pagava gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "177": {
+        "item_id": 1839,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che pagavano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "178": {
+        "item_id": 556,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che ascoltava il pompiere",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "179": {
+        "item_id": 556,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che ascoltavano i pompieri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "180": {
+        "item_id": 681,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che aiutava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "181": {
+        "item_id": 681,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che aiutavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "182": {
+        "item_id": 577,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il maestro che ascoltava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "183": {
+        "item_id": 577,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i maestri che ascoltavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "184": {
+        "item_id": 1109,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che seguiva i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "185": {
+        "item_id": 1109,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che seguivano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "186": {
+        "item_id": 1266,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che conosceva l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "187": {
+        "item_id": 1266,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che conoscevano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "188": {
+        "item_id": 1722,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che chiamava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "189": {
+        "item_id": 1722,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che chiamavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "190": {
+        "item_id": 1183,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che chiamava i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "191": {
+        "item_id": 1183,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che chiamavano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "192": {
+        "item_id": 524,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che vedeva il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "193": {
+        "item_id": 524,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che vedevano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "194": {
+        "item_id": 1059,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che pagava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "195": {
+        "item_id": 1059,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che pagavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "196": {
+        "item_id": 540,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che aiutava il pompiere",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "197": {
+        "item_id": 540,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che aiutavano i pompieri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "198": {
+        "item_id": 1194,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che osservava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "199": {
+        "item_id": 1194,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che osservavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "200": {
+        "item_id": 1678,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che pagava l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "201": {
+        "item_id": 1678,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che pagavano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "202": {
+        "item_id": 748,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che seguiva il pompiere",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "203": {
+        "item_id": 748,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che seguivano i pompieri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "204": {
+        "item_id": 1851,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che cercava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "205": {
+        "item_id": 1851,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che cercavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "206": {
+        "item_id": 1430,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che cercava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "207": {
+        "item_id": 1430,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che cercavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "208": {
+        "item_id": 484,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che vedeva il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "209": {
+        "item_id": 484,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che vedevano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "210": {
+        "item_id": 1757,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che ascoltava i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "211": {
+        "item_id": 1757,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che ascoltavano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "212": {
+        "item_id": 95,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che osservava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "213": {
+        "item_id": 95,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che osservavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "214": {
+        "item_id": 1020,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che aiutava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "215": {
+        "item_id": 1020,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che aiutavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "216": {
+        "item_id": 563,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il maestro che chiamava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "217": {
+        "item_id": 563,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i maestri che chiamavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "218": {
+        "item_id": 1264,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che vedeva l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "219": {
+        "item_id": 1264,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che vedevano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "220": {
+        "item_id": 742,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che chiamava il pompiere",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "221": {
+        "item_id": 742,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che chiamavano i pompieri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "222": {
+        "item_id": 863,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che chiamava gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "223": {
+        "item_id": 863,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che chiamavano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "224": {
+        "item_id": 1598,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che pagava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "225": {
+        "item_id": 1598,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che pagavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "226": {
+        "item_id": 1714,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che osservava il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "227": {
+        "item_id": 1714,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che osservavano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "228": {
+        "item_id": 1484,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che vedeva il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "229": {
+        "item_id": 1484,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che vedevano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "230": {
+        "item_id": 891,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che cercava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "231": {
+        "item_id": 891,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che cercavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "232": {
+        "item_id": 1577,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che ascoltava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "233": {
+        "item_id": 1577,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che ascoltavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "234": {
+        "item_id": 1038,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che pagava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "235": {
+        "item_id": 1038,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che pagavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "236": {
+        "item_id": 206,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che conosceva il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "237": {
+        "item_id": 206,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che conoscevano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "238": {
+        "item_id": 392,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che trovava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "239": {
+        "item_id": 392,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che trovavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "240": {
+        "item_id": 794,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che osservava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "241": {
+        "item_id": 794,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che osservavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "242": {
+        "item_id": 870,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il presidente che cercava l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "243": {
+        "item_id": 870,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i presidenti che cercavano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "244": {
+        "item_id": 397,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che ascoltava i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "245": {
+        "item_id": 397,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che ascoltavano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "246": {
+        "item_id": 766,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che conosceva l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "247": {
+        "item_id": 766,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che conoscevano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "248": {
+        "item_id": 1841,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che aiutava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "249": {
+        "item_id": 1841,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che aiutavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "250": {
+        "item_id": 1241,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che aiutava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "251": {
+        "item_id": 1241,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che aiutavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "252": {
+        "item_id": 1028,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che seguiva l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "253": {
+        "item_id": 1028,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che seguivano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "254": {
+        "item_id": 1792,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che trovava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "255": {
+        "item_id": 1792,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che trovavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "256": {
+        "item_id": 642,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che chiamava il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "257": {
+        "item_id": 642,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che chiamavano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "258": {
+        "item_id": 1891,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che cercava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "259": {
+        "item_id": 1891,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che cercavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "260": {
+        "item_id": 612,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che trovava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "261": {
+        "item_id": 612,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che trovavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "262": {
+        "item_id": 1762,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che chiamava l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "263": {
+        "item_id": 1762,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che chiamavano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "264": {
+        "item_id": 960,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il presidente che aiutava l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "265": {
+        "item_id": 960,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i presidenti che aiutavano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "266": {
+        "item_id": 1570,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che cercava l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "267": {
+        "item_id": 1570,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che cercavano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "268": {
+        "item_id": 725,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che vedeva i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "269": {
+        "item_id": 725,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che vedevano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "270": {
+        "item_id": 683,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che chiamava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "271": {
+        "item_id": 683,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che chiamavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "272": {
+        "item_id": 98,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il dottore che pagava il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "273": {
+        "item_id": 98,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i dottori che pagavano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "274": {
+        "item_id": 804,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il presidente che vedeva il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "275": {
+        "item_id": 804,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i presidenti che vedevano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "276": {
+        "item_id": 1751,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che cercava i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "277": {
+        "item_id": 1751,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che cercavano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "278": {
+        "item_id": 1597,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che ascoltava i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "279": {
+        "item_id": 1597,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che ascoltavano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "280": {
+        "item_id": 406,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che conosceva il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "281": {
+        "item_id": 406,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che conoscevano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "282": {
+        "item_id": 502,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che chiamava il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "283": {
+        "item_id": 502,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che chiamavano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "284": {
+        "item_id": 1071,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che cercava gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "285": {
+        "item_id": 1071,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che cercavano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "286": {
+        "item_id": 1056,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che ascoltava il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "287": {
+        "item_id": 1056,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che ascoltavano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "288": {
+        "item_id": 929,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che seguiva i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "289": {
+        "item_id": 929,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che seguivano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "290": {
+        "item_id": 779,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che pagava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "291": {
+        "item_id": 779,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che pagavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "292": {
+        "item_id": 200,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che aiutava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "293": {
+        "item_id": 200,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che aiutavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "294": {
+        "item_id": 134,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il dottore che osservava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "295": {
+        "item_id": 134,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i dottori che osservavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "296": {
+        "item_id": 1051,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che cercava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "297": {
+        "item_id": 1051,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che cercavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "298": {
+        "item_id": 40,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il dottore che aiutava il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "299": {
+        "item_id": 40,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i dottori che aiutavano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "300": {
+        "item_id": 1017,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che ascoltava i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "301": {
+        "item_id": 1017,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che ascoltavano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "302": {
+        "item_id": 230,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che cercava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "303": {
+        "item_id": 230,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che cercavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "304": {
+        "item_id": 1513,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che trovava i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "305": {
+        "item_id": 1513,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che trovavano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "306": {
+        "item_id": 1796,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che ascoltava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "307": {
+        "item_id": 1796,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che ascoltavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "308": {
+        "item_id": 378,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che pagava l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "309": {
+        "item_id": 378,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che pagavano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "310": {
+        "item_id": 288,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che seguiva il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "311": {
+        "item_id": 288,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che seguivano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "312": {
+        "item_id": 418,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che pagava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "313": {
+        "item_id": 418,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che pagavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "314": {
+        "item_id": 1698,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che pagava il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "315": {
+        "item_id": 1698,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che pagavano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "316": {
+        "item_id": 391,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che cercava i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "317": {
+        "item_id": 391,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che cercavano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "318": {
+        "item_id": 592,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che trovava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "319": {
+        "item_id": 592,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che trovavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "320": {
+        "item_id": 1522,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che chiamava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "321": {
+        "item_id": 1522,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che chiamavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "322": {
+        "item_id": 1162,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che chiamava l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "323": {
+        "item_id": 1162,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che chiamavano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "324": {
+        "item_id": 1086,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che conosceva il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "325": {
+        "item_id": 1086,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che conoscevano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "326": {
+        "item_id": 1495,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che osservava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "327": {
+        "item_id": 1495,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che osservavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "328": {
+        "item_id": 647,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che conosceva i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "329": {
+        "item_id": 647,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che conoscevano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "330": {
+        "item_id": 1152,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che trovava il pompiere",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "331": {
+        "item_id": 1152,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che trovavano i pompieri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "332": {
+        "item_id": 1367,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che conosceva gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "333": {
+        "item_id": 1367,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che conoscevano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "334": {
+        "item_id": 520,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che aiutava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "335": {
+        "item_id": 520,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che aiutavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "336": {
+        "item_id": 1862,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che chiamava l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "337": {
+        "item_id": 1862,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che chiamavano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "338": {
+        "item_id": 64,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il dottore che vedeva l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "339": {
+        "item_id": 64,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i dottori che vedevano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "340": {
+        "item_id": 1836,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che ascoltava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "341": {
+        "item_id": 1836,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che ascoltavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "342": {
+        "item_id": 14,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il dottore che osservava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "343": {
+        "item_id": 14,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i dottori che osservavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "344": {
+        "item_id": 1180,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che aiutava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "345": {
+        "item_id": 1180,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che aiutavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "346": {
+        "item_id": 1064,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che vedeva l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "347": {
+        "item_id": 1064,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che vedevano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "348": {
+        "item_id": 492,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che trovava il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "349": {
+        "item_id": 492,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che trovavano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "350": {
+        "item_id": 379,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che pagava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "351": {
+        "item_id": 379,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che pagavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "352": {
+        "item_id": 187,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che conosceva i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "353": {
+        "item_id": 187,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che conoscevano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "354": {
+        "item_id": 763,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che chiamava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "355": {
+        "item_id": 763,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che chiamavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "356": {
+        "item_id": 216,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che ascoltava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "357": {
+        "item_id": 216,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che ascoltavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "358": {
+        "item_id": 791,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che cercava i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "359": {
+        "item_id": 791,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che cercavano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "360": {
+        "item_id": 1076,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che ascoltava l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "361": {
+        "item_id": 1076,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che ascoltavano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "362": {
+        "item_id": 878,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il presidente che pagava l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "363": {
+        "item_id": 878,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i presidenti che pagavano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "364": {
+        "item_id": 337,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che ascoltava i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "365": {
+        "item_id": 337,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che ascoltavano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "366": {
+        "item_id": 1772,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che trovava l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "367": {
+        "item_id": 1772,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che trovavano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "368": {
+        "item_id": 719,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che pagava i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "369": {
+        "item_id": 719,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che pagavano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "370": {
+        "item_id": 1748,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che seguiva il pompiere",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "371": {
+        "item_id": 1748,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che seguivano i pompieri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "372": {
+        "item_id": 295,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che osservava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "373": {
+        "item_id": 295,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che osservavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "374": {
+        "item_id": 1725,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che vedeva i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "375": {
+        "item_id": 1725,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che vedevano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "376": {
+        "item_id": 1016,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che ascoltava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "377": {
+        "item_id": 1016,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che ascoltavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "378": {
+        "item_id": 1275,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che osservava gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "379": {
+        "item_id": 1275,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che osservavano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "380": {
+        "item_id": 1750,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che cercava il pompiere",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "381": {
+        "item_id": 1750,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che cercavano i pompieri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "382": {
+        "item_id": 1485,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che vedeva i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "383": {
+        "item_id": 1485,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che vedevano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "384": {
+        "item_id": 455,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il maestro che osservava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "385": {
+        "item_id": 455,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i maestri che osservavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "386": {
+        "item_id": 1996,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che ascoltava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "387": {
+        "item_id": 1996,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che ascoltavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "388": {
+        "item_id": 815,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che osservava i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "389": {
+        "item_id": 815,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che osservavano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "390": {
+        "item_id": 1886,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che conosceva il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "391": {
+        "item_id": 1886,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che conoscevano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "392": {
+        "item_id": 269,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che seguiva gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "393": {
+        "item_id": 269,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che seguivano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "394": {
+        "item_id": 995,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che osservava i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "395": {
+        "item_id": 995,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che osservavano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "396": {
+        "item_id": 201,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che aiutava i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "397": {
+        "item_id": 201,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che aiutavano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "398": {
+        "item_id": 161,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che aiutava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "399": {
+        "item_id": 161,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che aiutavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "400": {
+        "item_id": 1579,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che pagava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "401": {
+        "item_id": 1579,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che pagavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "402": {
+        "item_id": 729,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che seguiva i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "403": {
+        "item_id": 729,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che seguivano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "404": {
+        "item_id": 401,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il maestro che aiutava i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "405": {
+        "item_id": 401,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i maestri che aiutavano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "406": {
+        "item_id": 702,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che chiamava il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "407": {
+        "item_id": 702,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che chiamavano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "408": {
+        "item_id": 1500,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che aiutava il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "409": {
+        "item_id": 1500,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che aiutavano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "410": {
+        "item_id": 1845,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che vedeva i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "411": {
+        "item_id": 1845,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che vedevano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "412": {
+        "item_id": 1795,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che osservava i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "413": {
+        "item_id": 1795,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che osservavano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "414": {
+        "item_id": 1129,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che seguiva i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "415": {
+        "item_id": 1129,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che seguivano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "416": {
+        "item_id": 565,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il maestro che vedeva gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "417": {
+        "item_id": 565,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i maestri che vedevano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "418": {
+        "item_id": 1413,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che trovava i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "419": {
+        "item_id": 1413,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che trovavano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "420": {
+        "item_id": 1021,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che aiutava gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "421": {
+        "item_id": 1021,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che aiutavano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "422": {
+        "item_id": 1025,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che vedeva gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "423": {
+        "item_id": 1025,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che vedevano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "424": {
+        "item_id": 1411,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che cercava i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "425": {
+        "item_id": 1411,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che cercavano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "426": {
+        "item_id": 1895,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che osservava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "427": {
+        "item_id": 1895,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che osservavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "428": {
+        "item_id": 1585,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che vedeva i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "429": {
+        "item_id": 1585,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che vedevano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "430": {
+        "item_id": 1104,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che vedeva il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "431": {
+        "item_id": 1104,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che vedevano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "432": {
+        "item_id": 205,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che vedeva i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "433": {
+        "item_id": 205,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che vedevano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "434": {
+        "item_id": 34,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il dottore che osservava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "435": {
+        "item_id": 34,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i dottori che osservavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "436": {
+        "item_id": 775,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che osservava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "437": {
+        "item_id": 775,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che osservavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "438": {
+        "item_id": 508,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che seguiva il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "439": {
+        "item_id": 508,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che seguivano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "440": {
+        "item_id": 1451,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che cercava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "441": {
+        "item_id": 1451,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che cercavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "442": {
+        "item_id": 1478,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che pagava l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "443": {
+        "item_id": 1478,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che pagavano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "444": {
+        "item_id": 1970,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che cercava l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "445": {
+        "item_id": 1970,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che cercavano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "446": {
+        "item_id": 1390,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che cercava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "447": {
+        "item_id": 1390,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che cercavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "448": {
+        "item_id": 91,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che cercava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "449": {
+        "item_id": 91,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che cercavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "450": {
+        "item_id": 1363,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che chiamava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "451": {
+        "item_id": 1363,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che chiamavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "452": {
+        "item_id": 897,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che ascoltava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "453": {
+        "item_id": 897,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che ascoltavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "454": {
+        "item_id": 564,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che vedeva l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "455": {
+        "item_id": 564,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che vedevano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "456": {
+        "item_id": 1369,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che seguiva gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "457": {
+        "item_id": 1369,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che seguivano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "458": {
+        "item_id": 776,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che ascoltava l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "459": {
+        "item_id": 776,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che ascoltavano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "460": {
+        "item_id": 241,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che aiutava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "461": {
+        "item_id": 241,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che aiutavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "462": {
+        "item_id": 13,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che trovava i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "463": {
+        "item_id": 13,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che trovavano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "464": {
+        "item_id": 315,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che osservava i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "465": {
+        "item_id": 315,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che osservavano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "466": {
+        "item_id": 600,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che aiutava il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "467": {
+        "item_id": 600,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che aiutavano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "468": {
+        "item_id": 387,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che conosceva i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "469": {
+        "item_id": 387,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che conoscevano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "470": {
+        "item_id": 1297,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che ascoltava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "471": {
+        "item_id": 1297,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che ascoltavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "472": {
+        "item_id": 166,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il dottore che conosceva l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "473": {
+        "item_id": 166,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i dottori che conoscevano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "474": {
+        "item_id": 840,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il presidente che aiutava il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "475": {
+        "item_id": 840,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i presidenti che aiutavano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "476": {
+        "item_id": 20,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il dottore che aiutava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "477": {
+        "item_id": 20,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i dottori che aiutavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "478": {
+        "item_id": 646,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che conosceva il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "479": {
+        "item_id": 646,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che conoscevano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "480": {
+        "item_id": 1842,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che chiamava il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "481": {
+        "item_id": 1842,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che chiamavano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "482": {
+        "item_id": 1508,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che seguiva il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "483": {
+        "item_id": 1508,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che seguivano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "484": {
+        "item_id": 1154,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che osservava il pompiere",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "485": {
+        "item_id": 1154,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che osservavano i pompieri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "486": {
+        "item_id": 1528,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che seguiva il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "487": {
+        "item_id": 1528,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che seguivano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "488": {
+        "item_id": 831,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che cercava gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "489": {
+        "item_id": 831,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che cercavano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "490": {
+        "item_id": 1267,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che conosceva gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "491": {
+        "item_id": 1267,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che conoscevano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "492": {
+        "item_id": 1590,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che cercava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "493": {
+        "item_id": 1590,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che cercavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "494": {
+        "item_id": 1899,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che pagava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "495": {
+        "item_id": 1899,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che pagavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "496": {
+        "item_id": 562,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che chiamava l’agricoltore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "497": {
+        "item_id": 562,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che chiamavano gli agricoltori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "498": {
+        "item_id": 1951,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pittore che cercava i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "499": {
+        "item_id": 1951,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pittori che cercavano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "500": {
+        "item_id": 686,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’impiegato che conosceva il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "501": {
+        "item_id": 686,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli impiegati che conoscevano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "502": {
+        "item_id": 957,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che ascoltava i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "503": {
+        "item_id": 957,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che ascoltavano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "504": {
+        "item_id": 189,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che seguiva i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "505": {
+        "item_id": 189,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che seguivano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "506": {
+        "item_id": 1806,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pittore che conosceva il dottore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "507": {
+        "item_id": 1806,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pittori che conoscevano i dottori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "508": {
+        "item_id": 975,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che osservava gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "509": {
+        "item_id": 975,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che osservavano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "510": {
+        "item_id": 699,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che pagava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "511": {
+        "item_id": 699,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che pagavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "512": {
+        "item_id": 1499,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che pagava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "513": {
+        "item_id": 1499,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che pagavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "514": {
+        "item_id": 1705,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che vedeva i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "515": {
+        "item_id": 1705,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che vedevano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "516": {
+        "item_id": 510,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che cercava il cuoco",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "517": {
+        "item_id": 510,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che cercavano i cuochi",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "518": {
+        "item_id": 1082,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che chiamava il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "519": {
+        "item_id": 1082,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che chiamavano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "520": {
+        "item_id": 474,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che osservava l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "521": {
+        "item_id": 474,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che osservavano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "522": {
+        "item_id": 1584,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che vedeva il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "523": {
+        "item_id": 1584,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che vedevano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "524": {
+        "item_id": 856,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il presidente che ascoltava il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "525": {
+        "item_id": 856,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i presidenti che ascoltavano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "526": {
+        "item_id": 747,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che conosceva i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "527": {
+        "item_id": 747,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che conoscevano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "528": {
+        "item_id": 252,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che trovava il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "529": {
+        "item_id": 252,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che trovavano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "530": {
+        "item_id": 21,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che aiutava gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "531": {
+        "item_id": 21,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che aiutavano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "532": {
+        "item_id": 1337,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che ascoltava i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "533": {
+        "item_id": 1337,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che ascoltavano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "534": {
+        "item_id": 459,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il maestro che pagava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "535": {
+        "item_id": 459,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i maestri che pagavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "536": {
+        "item_id": 1184,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che vedeva il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "537": {
+        "item_id": 1184,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che vedevano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "538": {
+        "item_id": 276,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che ascoltava l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "539": {
+        "item_id": 276,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che ascoltavano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "540": {
+        "item_id": 955,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che osservava i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "541": {
+        "item_id": 955,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che osservavano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "542": {
+        "item_id": 1215,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il poliziotto che osservava i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "543": {
+        "item_id": 1215,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i poliziotti che osservavano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "544": {
+        "item_id": 385,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che vedeva i pittori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "545": {
+        "item_id": 385,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che vedevano il pittore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "546": {
+        "item_id": 805,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che vedeva i dottori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "547": {
+        "item_id": 805,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che vedevano il dottore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "548": {
+        "item_id": 1437,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che ascoltava gli avvocati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "549": {
+        "item_id": 1437,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che ascoltavano l’avvocato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "550": {
+        "item_id": 1515,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che osservava i cuochi",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "551": {
+        "item_id": 1515,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che osservavano il cuoco",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "552": {
+        "item_id": 343,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’avvocato che chiamava i pompieri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "553": {
+        "item_id": 343,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli avvocati che chiamavano il pompiere",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "554": {
+        "item_id": 769,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’impiegato che seguiva gli agricoltori",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "555": {
+        "item_id": 769,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli impiegati che seguivano l’agricoltore",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "556": {
+        "item_id": 1332,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che trovava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "557": {
+        "item_id": 1332,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che trovavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "558": {
+        "item_id": 1685,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che vedeva i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "559": {
+        "item_id": 1685,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che vedevano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "560": {
+        "item_id": 130,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il dottore che cercava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "561": {
+        "item_id": 130,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i dottori che cercavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "562": {
+        "item_id": 1687,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "l’agricoltore che conosceva i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "563": {
+        "item_id": 1687,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "gli agricoltori che conoscevano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "564": {
+        "item_id": 871,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il presidente che cercava gli impiegati",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "565": {
+        "item_id": 871,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i presidenti che cercavano l’impiegato",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "566": {
+        "item_id": 1123,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che chiamava i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "567": {
+        "item_id": 1123,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che chiamavano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "568": {
+        "item_id": 1396,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che ascoltava il pittore",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "569": {
+        "item_id": 1396,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che ascoltavano i pittori",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "570": {
+        "item_id": 87,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che conosceva i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "571": {
+        "item_id": 87,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che conoscevano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "572": {
+        "item_id": 1482,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il pompiere che chiamava il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "573": {
+        "item_id": 1482,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i pompieri che chiamavano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "574": {
+        "item_id": 330,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’avvocato che cercava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "575": {
+        "item_id": 330,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli avvocati che cercavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "576": {
+        "item_id": 1238,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che pagava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "577": {
+        "item_id": 1238,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che pagavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "578": {
+        "item_id": 466,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il maestro che conosceva l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "579": {
+        "item_id": 466,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i maestri che conoscevano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "580": {
+        "item_id": 121,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il dottore che aiutava i poliziotti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "581": {
+        "item_id": 121,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i dottori che aiutavano il poliziotto",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "582": {
+        "item_id": 1638,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che pagava l’avvocato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "583": {
+        "item_id": 1638,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che pagavano gli avvocati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "584": {
+        "item_id": 1044,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che vedeva il maestro",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "585": {
+        "item_id": 1044,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che vedevano i maestri",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "586": {
+        "item_id": 1724,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "l’agricoltore che vedeva il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "587": {
+        "item_id": 1724,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "gli agricoltori che vedevano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "588": {
+        "item_id": 1095,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il cuoco che osservava i presidenti",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "589": {
+        "item_id": 1095,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i cuochi che osservavano il presidente",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "590": {
+        "item_id": 1130,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che cercava il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "591": {
+        "item_id": 1130,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che cercavano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "592": {
+        "item_id": 1294,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il poliziotto che osservava il presidente",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "593": {
+        "item_id": 1294,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i poliziotti che osservavano i presidenti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "594": {
+        "item_id": 860,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il presidente che aiutava l’impiegato",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "595": {
+        "item_id": 860,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i presidenti che aiutavano gli impiegati",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "596": {
+        "item_id": 1459,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "singular",
+        "object_number": "plural",
+        "prefix": "il pompiere che pagava i maestri",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "597": {
+        "item_id": 1459,
+        "language": "italian",
+        "context_type": "mismatched",
+        "subject_number": "plural",
+        "object_number": "singular",
+        "prefix": "i pompieri che pagavano il maestro",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    },
+    "598": {
+        "item_id": 1126,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "singular",
+        "object_number": "singular",
+        "prefix": "il cuoco che conosceva il poliziotto",
+        "correct_verb": "è",
+        "incorrect_verb": "sono"
+    },
+    "599": {
+        "item_id": 1126,
+        "language": "italian",
+        "context_type": "matched",
+        "subject_number": "plural",
+        "object_number": "plural",
+        "prefix": "i cuochi che conoscevano i poliziotti",
+        "correct_verb": "sono",
+        "incorrect_verb": "è"
+    }
+}

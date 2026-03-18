@@ -1,0 +1,10 @@
+1. auttoi/auttoivat
+2. kutsui/kutsuivat
+3. näki/näkivät
+4. tunsi/tunsivat
+5. seurasi/seurasivat
+6. etsi/etsivät
+7. löysi/löysivät
+8. tarkkaili/tarkkailivat
+9. kuunteli/kuuntelivat
+10. maksoi/maksoivat
